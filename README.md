@@ -1,4 +1,4 @@
-# exchangeVPN
+# exchangeVPNstatus
 ### this script is design to help user who need to use VPN on iOS
 ### 这是一个帮助iOS用户更加优雅的“科学上网”的脚本
 ***
